@@ -1,0 +1,104 @@
+INFO:root:Successfully connected to MongoDB.
+INFO:root:Retrieved stock with siret 32517500024
+INFO:root:Retrieved stock with siret 32517500024
+INFO:root:Retrieved stock with siret 32517500024
+INFO:root:Retrieved stock with siret 32517500024
+INFO:root:Successfully connected to MongoDB.
+INFO:root:Successfully connected to MongoDB.
+INFO:root:Successfully connected to MongoDB.
+INFO:root:Retrieved stock with siret 32517500024
+INFO:root:Retrieved stock with siret 32517500024
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+INFO:root:Retrieved stock with siret 32517500024
+Retrieved stock with siret 32517500024
+INFO:root:Retrieved stock with siret 32517500024
+Retrieved stock with siret 32517500024
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+ERROR:root:An unexpected error occurred: 'dict' object has no attribute 'explain'
+An unexpected error occurred: 'dict' object has no attribute 'explain'
+An unexpected error occurred: 'dict' object has no attribute 'explain'
+ERROR:root:An unexpected error occurred: 'dict' object has no attribute 'explain'
+An unexpected error occurred: 'dict' object has no attribute 'explain'
+An unexpected error occurred: 'dict' object has no attribute 'explain'
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+INFO:root:Retrieved stock with siret 32517500024
+Retrieved stock with siret 32517500024
+INFO:root:Retrieved stock with siret 32517500024
+Retrieved stock with siret 32517500024
+INFO:root:Retrieved stock with siret 32517500024
+Retrieved stock with siret 32517500024
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+INFO:root:Retrieved stock with siret 32517500024
+Retrieved stock with siret 32517500024
+INFO:root:Retrieved stock with siret 32517500024
+Retrieved stock with siret 32517500024
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+INFO:http:HTTP GET request received for siret: 32517500024
+HTTP GET request received for siret: 32517500024
+INFO:root:Retrieved stock with siret 32517500024
+Retrieved stock with siret 32517500024
+INFO:http:HTTP GET request received for siret: 32517500024
+HTTP GET request received for siret: 32517500024
+INFO:root:Retrieved stock with siret 32517500024
+Retrieved stock with siret 32517500024
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+INFO:root:HTTP GET request received for siret: 32517500024
+HTTP GET request received for siret: 32517500024
+INFO:root:Retrieved stock with siret 32517500024
+Retrieved stock with siret 32517500024
+INFO:root:HTTP GET request received for siret: 32517500024
+HTTP GET request received for siret: 32517500024
+INFO:root:Retrieved stock with siret 32517500024
+Retrieved stock with siret 32517500024
+INFO:root:HTTP GET request received for siret: 32517500040
+HTTP GET request received for siret: 32517500040
+INFO:root:Retrieved stock with siret 32517500040
+Retrieved stock with siret 32517500040
+INFO:root:HTTP GET request received for siret: 32517500040
+HTTP GET request received for siret: 32517500040
+INFO:root:Retrieved stock with siret 32517500040
+Retrieved stock with siret 32517500040
+ERROR:root:Error connecting to MongoDB: localhost:27017: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 6571cc0462f7dd205a268bb9, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+Error connecting to MongoDB: localhost:27017: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms), Timeout: 30s, Topology Description: <TopologyDescription id: 6571cc0462f7dd205a268bb9, topology_type: Unknown, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée (configured timeouts: socketTimeoutMS: 20000.0ms, connectTimeoutMS: 20000.0ms)')>]>
+INFO:root:HTTP GET request received for siret: 32517500024
+HTTP GET request received for siret: 32517500024
+INFO:root:Retrieved stock with siret 32517500024
+Retrieved stock with siret 32517500024
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
+INFO:root:HTTP GET request received for siret: 32517500065
+HTTP GET request received for siret: 32517500065
+INFO:root:Retrieved stock with siret 32517500065
+Retrieved stock with siret 32517500065
+INFO:root:HTTP DELETE request received for siret: 32517500065
+HTTP DELETE request received for siret: 32517500065
+INFO:root:Stock deleted with siret 32517500065
+Stock deleted with siret 32517500065
+INFO:root:Successfully connected to MongoDB.
+Successfully connected to MongoDB.
